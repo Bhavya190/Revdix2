@@ -639,7 +639,7 @@ export default function Home() {
             <div>
               <h4 className="footer-section-title">Contact Info</h4>
               <ul className="footer-contact-list">
-                <li className="footer-contact-item"><MapPin size={18} className="text-secondary" /> Surat, Gujarat, India</li>
+                <li className="footer-contact-item"><MapPin size={18} className="text-secondary" /> Ahmedabad, Gujarat, India</li>
                 <li className="footer-contact-item"><Phone size={18} className="text-secondary" /> +91 000 000 0000</li>
                 <li className="footer-contact-item"><Mail size={18} className="text-secondary" /> info@revdixexim.com</li>
               </ul>
